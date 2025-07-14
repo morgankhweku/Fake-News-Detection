@@ -1,10 +1,10 @@
-# 📰 Fake News Detection using Machine Learning
+#  Fake News Detection using Machine Learning
 
 This project is a simple and effective **Fake News Detection System** built using Python and machine learning techniques. It classifies news articles as either **real** or **fake** using natural language processing (NLP) and logistic regression.
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used is the **Fake and Real News Dataset** available on [Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset).
 
@@ -19,7 +19,7 @@ Each file includes:
 
 ---
 
-## 📊 Project Pipeline
+##  Project Pipeline
 
 1. **Data Loading**: Load `true.csv` and `fake.csv` into a Pandas DataFrame.
 2. **Labeling**: Assign `1` to real news, `0` to fake news.
@@ -34,7 +34,7 @@ Each file includes:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Clone the repository**:
    ```bash
